@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&display=swap');
+.nftcontainer{
+    display: grid;
+    grid-template-columns: repeat(1,2rem);
+    margin-bottom: 2rem;
+    margin-left: 1.3rem;
+    background-color: #f3f4f6;
+    box-shadow: -15px -15px 15px rgba(255, 255, 255, 0.5),15px 15px 15px rgba(0, 0, 0, 0.05);;
+    border-radius: 5%;
+}
+
+.nftcontainer:hover{
+    box-shadow: 10px 10px 20px 4px rgba(79, 84, 85,0.7);
+}
+
+.allnftcontainer{
+    margin-top: 4rem;
+    width: 70%;
+    background-color: rgb(255, 255, 255);
+    display: grid;
+    margin-left: auto;
+    margin-right: auto;
+    grid-template-columns: repeat(4,1fr);
+    
+}
+
+.nft{
+    width: 16rem;
+    height:16rem;
+    margin-left: 0.5rem;
+    
+}
+
+.nftheading{
+    width:16rem;
+    font-size: 1rem;
+    text-align: center;
+    color: black;
+
+}
+
+.nftsale{
+    width:16rem;
+    font-size: 1rem;
+    text-align: center;
+    
+    color: black;
+
+}
+.nftsale:hover{
+    width:7.8rem;
+    margin-left: 4rem;
+    border-radius: 7px;
+    font-size: 1rem;
+    text-align: center;
+    background: rgba(190, 230, 237, 0.6);
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+    cursor: pointer;;
+
+}
+.user{
+    font-size: 25px;
+    position: absolute;
+    margin-left: 43rem;
+    margin-top: -2.2rem;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bolder;
+    background: rgb(21,143,218);
+    background: linear-gradient(90deg, rgba(21,143,218,1) 13%, rgba(3,52,49,1) 100%);
+    background-clip:text;
+    color:transparent
+}
+
+.submit{
+    width: 7rem;
+    height: 1.6rem;
+    position: relative;
+    right:6.9rem;
+    background-color: rgb(134, 134, 134,0.5);
+    border: none;
+    color:black;
+    margin-top: 4rem;
+    border-radius: 0 2px 2px 0; 
+    margin-bottom: 3rem;
+}
+.submit:hover{
+    background-color: rgb(177, 228, 239);
+    cursor: pointer;
+}
+
+.input::-webkit-input-placeholder{
+    position: relative;
+    left:7rem;
+}
+
+.input{
+    margin-left: 43rem;
+    margin-top: 2rem;
+    width: 27rem;
+    height: 1.5rem;
+    background-color: rgb(134, 134, 134,0.3);
+    border: none;
+    color:black;
+}
+
+.profile{
+    height:3rem;
+    border-radius: 100%;
+    width: 3rem;
+    margin-left: 87rem;
+    margin-top: 2rem;
+}
+
+.line{
+    opacity: 0.3;
+}

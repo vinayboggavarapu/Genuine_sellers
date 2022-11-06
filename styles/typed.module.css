@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+.text{
+    font-size: 3rem;
+    text-align: center;
+    line-height: 5rem;
+    margin-top: 10%;
+    margin-bottom: 50vh;
+    font-weight: 400;
+    margin-left:22rem;
+    width: 60%;
+    font-weight: 400;
+    background: rgb(236,219,18);
+    background: linear-gradient(90deg, rgba(236,219,18,1) 0%, rgba(79,9,121,1) 58%, rgba(0,212,255,1) 100%);
+    background-clip: text;
+    color: transparent;
+    font-family:'Source Sans Pro', sans-serif;
+}
+.heading{
+    color: rgb(43, 41, 41);
+    font-weight: 100;
+}
