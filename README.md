@@ -11,7 +11,7 @@ We can see lot of eCommerce webistes have third party sellers who sell second or
 
 ## Demo
 
-https://mega.nz/file/Gb4nhBZR#5kcyITcNLWBns8UmRdVpa9xgazUrBj9Awl8w9ijmhBI
+https://mega.nz/file/zfIEhCCZ#5kcyITcNLWBns8UmRdVpa9xgazUrBj9Awl8w9ijmhBI
 
 
 ## Tech Stack
