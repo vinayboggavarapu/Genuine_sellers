@@ -30,6 +30,10 @@
     margin-left: 0.5rem;
     
 }
+.profile:hover{
+    box-shadow: -2px 1px 1px rgb(142, 140, 140),2px 1px 1px rgb(179, 174, 174);
+    cursor: pointer;
+}
 
 .nftheading{
     width:16rem;
@@ -62,14 +66,14 @@
 .user{
     font-size: 25px;
     position: absolute;
-    margin-left: 43rem;
+    margin-left: 40%;
     margin-top: -2.2rem;
     font-family: 'Noto Sans', sans-serif;
     font-weight: bolder;
     background: rgb(21,143,218);
     background: linear-gradient(90deg, rgba(21,143,218,1) 13%, rgba(3,52,49,1) 100%);
     background-clip:text;
-    color:transparent
+    color:transparent;
 }
 
 .submit{
