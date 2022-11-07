@@ -1,7 +1,7 @@
 
 # Genuinity products sold from verified wallets
 
-Hi there! We are team ***Web3 Frankeinsteins*** , made this project as part of the ***Lumos Hackathon*** .
+Hi there! We are team ***Web3 Frankensteins*** , made this project as part of the ***Lumos Hackathon*** .
 So basically the main ideology is to make only verified users to sell the products, reflecting that products from that verified wallets are genuine.
 
 We can see lot of eCommerce webistes have third party sellers who sell second or third quality products and marketize them as original products.
